@@ -1,0 +1,82 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Paul Weingartner
+    tagline: österreichischer Philosoph und Wissenschaftstheoretiker
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: paul.weingartner@protonmail.com
+    phone: 
+    timezone: 
+    citizenship:
+    website: paulweingartner.github.io #do not add http://
+    linkedin: 
+    xing: 
+    github: 
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: # http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: 
+      info:
+        - idiom: 
+          level: 
+
+        - idiom: 
+          level: 
+
+        - idiom: 
+          level: 
+
+    interests:
+      title: 
+      info:
+        - item: 
+          link:
+
+        - item: 
+          link:
+
+        - item: 
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Paul Weingartner (* 8. Juni 1931 in Innsbruck) ist ein österreichischer Philosoph und Wissenschaftstheoretiker.
+
+Nach dem Studium der Primarstufe arbeitete er bis 1955 für drei Jahre als Volksschullehrer. Danach studierte er bis 1961 an der Universität Innsbruck Philosophie, Physik und Mathematik. Es folgte eine Tätigkeit als Postdoc bei Karl Popper in London und als Humboldt-Stipendiat bei Wolfgang Stegmüller in München.
+
+Er war Assistent in Salzburg und von 1970 bis zu seiner Emeritierung 1999 Professor für Philosophie an der Universität Salzburg. Ab 1972 war er Vorstand des Instituts für Wissenschaftstheorie des Internationalen Forschungszentrums Salzburg.
+
+Die Maria-Curie-Skłodowska-Universität in Lublin ernannte ihn 1995 zum Ehrendoktor.
+education:
+    
+publications:
+    title: Publikationen
+    intro: |
+      
+    papers:
+      - title: Wissenschaftstheorie I. Einführung in die Hauptprobleme
+        link: "#"
+        authors: Paul Weingartner
+        conference: 1978
+
+
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
